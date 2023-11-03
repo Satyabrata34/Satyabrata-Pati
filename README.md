@@ -1,7 +1,9 @@
 # SatyabrataPati
 <h1 align="center">Hi 👋, I'm Satyabrata Pati🎀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=Awrx_ul310RlYP8BIPm7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+image&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=61&iurl=https%3A%2F%2Fimages.creativemarket.com%2F0.1.0%2Fps%2F1068169%2F6250%2F6250%2Fm1%2Ffpnw%2Fwm0%2Fprogramming-.jpg%3F1457490303%26s%3D525e71dae5c577b611a1b5499c6eaa5e&action=click" >
+<img align="right" alt="Coding" width="400" src="images/Aspose Words 57ad868b-aae0-4fa4
+
+-a707-a4a3a43c0792.001" >
 
 - 🔭 I’m currently working on *Frontend web development*
 
